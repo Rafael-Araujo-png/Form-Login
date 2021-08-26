@@ -1,5 +1,5 @@
 # 📃FORMULARIO DE LOGIN 
-Nesse projeto decidir fazer... 
+Nesse projeto decidi fazer...
 
 📌 Telas diferentes para o Mobile 📱 e Desktop 🖥 
 
